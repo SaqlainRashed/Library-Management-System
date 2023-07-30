@@ -24,7 +24,9 @@ The Library Management System (LMS) is a college project developed using PHP, My
 
 ![Library Management System](Library%20Management%20System.png)
 
-## [Visit the project](https://librarysaqlain.000webhostapp.com/)
+## Visit the project
+
+- [https://librarysaqlain.000webhostapp.com/](https://librarysaqlain.000webhostapp.com/)
 
 ## Features
 
